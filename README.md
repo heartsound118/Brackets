@@ -208,4 +208,4 @@ Brackets is an open-source code editor, offering the full free version with all 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-23 13:05:38 UTC
+**Last updated:** 2026-10-23 18:06:02 UTC
